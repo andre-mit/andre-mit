@@ -8,6 +8,11 @@
 
 ##### A web backend student and developer focused on learning back-end and front-and technologies. Always looking to contribute to the community in some way and learn together 📚
 
+<details>
+  <summary>:zap: Languages Used</summary>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andre-mit&theme=dark&show_icons=true">
+</details>
+
 ### 🚀 Technologies and Tools ⚙
 
 <div class="row">
