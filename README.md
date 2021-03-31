@@ -16,17 +16,15 @@
 ### 🚀 Technologies and Tools ⚙
 
 <div class="row">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp" width="30" height="30"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/512px-.NET_Core_Logo.svg.png" alt="asp net core" width="30" height="30"/>
-  <img src="https://devicon.dev/devicon.git/icons/react/react-original.svg" alt="react" width="30" height="30"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" alt="git" width="30" height="30"/>
-  <img src="https://devicon.dev/devicon.git/icons/github/github-original.svg" alt="github" width="30" height="30"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="30" height="30"/>
-  <img src="https://logodix.com/logo/696429.jpg" alt="mysql" width="30" height="30"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original.svg" alt="mysql" width="30" height="30"/>
-  <img src="https://seeklogo.com/images/M/microsoft-azure-logo-85055C44BE-seeklogo.com.png" alt="github" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/andre-mit/andre-mit/main/images/csharp.svg" alt="csharp" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/andre-mit/andre-mit/main/images/dotnet-core.png" alt="asp net core" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/andre-mit/andre-mit/main/images/react.svg" alt="react" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/andre-mit/andre-mit/main/images/javascript.svg" alt="javascript" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/andre-mit/andre-mit/main/images/typescript.svg" alt="typescript" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/andre-mit/andre-mit/main/images/git.svg" alt="git" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/andre-mit/andre-mit/main/images/mysql.svg" alt="mysql" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/andre-mit/andre-mit/main/images/sql-server.svg" alt="sql server" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/andre-mit/andre-mit/main/images/azure.svg" alt="azure" width="30" height="30"/>
   <img src="https://cdn.svgporn.com/logos/visual-studio-code.svg" height="30">
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" height="30">
 </div>
