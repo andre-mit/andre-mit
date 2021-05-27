@@ -13,6 +13,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andre-mit&theme=dark&show_icons=true">
 </details>
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=andre-mit&show_icons=true&theme=dracula)
+
 ### 🚀 Technologies and Tools ⚙
 
 <div class="row">
